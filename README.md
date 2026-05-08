@@ -13,7 +13,7 @@ This content is written for our less savvy techinical and financial friends.
 
 ## Writing Samples
 
-This portfolio will include a combination of technical and finical copy such as:
+This portfolio will include a combination of technical and finanical copy such as:
 
 - What Is Investing?
 - How Trading Apps Work
